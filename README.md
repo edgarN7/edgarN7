@@ -1,5 +1,5 @@
 <h1 align="center">Hey, my name is Edgar Neto</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<h3 align="center">A passionate frontend student from Brazil.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
