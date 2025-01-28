@@ -1,7 +1,7 @@
 <h1 align="center">Hey, my name is Edgar Neto</h1>
 <h3 align="center">A passionate frontend student from Brazil.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **HTML** and **CSS**.
 
 - 📫 How to reach me **edgar17.neto@gmail.com**
 
