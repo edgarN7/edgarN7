@@ -8,7 +8,7 @@
 <hr>
 
 ### ⚜️ The Ethos
-Welcome to my digital atelier. I am a Front-End Engineer from Brazil, dedicated to what I call **Digital Soul Tailoring**. I architect interfaces that reflect the true essence of each project, moving away from generic templates. My engineering is governed by transparency (*Aletheia*) and extreme technical excellence (*Arete*).
+Welcome to my digital atelier. I am a Front-End Developer from Brazil, dedicated to what I call **Digital Soul Tailoring**. I architect interfaces that reflect the true essence of each project, moving away from generic templates. My craft is governed by transparency (*Aletheia*) and extreme technical excellence (*Arete*).
 
 ### 🪡 Craftsmanship & Tools
 My tech stack is meticulously chosen for performance, scalability, and strict type safety. I specialize in modern SPAs, Hybrid Styling, and robust architectural patterns (RBAC, Service Layers).
