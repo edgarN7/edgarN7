@@ -41,7 +41,7 @@ Quer necessite de um diagnóstico técnico profundo (Theoria) ou de uma experiê
 <a href="mailto:edgar17.neto@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=FDFBF7" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/edgarrdsneto">
+<a href="https://linkedin.com/in/dev-edgar-neto">
 <img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=FDFBF7" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/edgar.n7">
