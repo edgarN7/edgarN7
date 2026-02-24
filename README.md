@@ -1,19 +1,19 @@
 <h1 align="center">Edgar Neto</h1>
-<h3 align="center">Founder & Front-End Craftsman at FROMTHEOS</h3>
+<h3 align="center">Fundador & Artesão Front-End na FROMTHEOS</h3>
 
 <p align="center">
-<i>"Orchestrating digital presences with the precision of a master tailor and the resonance of a baritone."</i>
+<i>"Orquestrando presenças digitais com a precisão de um mestre alfaiate e a ressonância de um barítono."</i>
 </p>
 
 <hr>
 
-## ⚜️ The Ethos: Digital Soul Tailoring
+⚜️ The Ethos: Alfaiataria de Almas Digitais
 
-Welcome to my atelier. I am a Front-End Developer from Brazil, dedicated to weaving interfaces that transcend mere templates, serving as true reflections of a brand's unique essence. My craft is governed by radical transparency (Aletheia) and uncompromising technical excellence (Arete). Here, code is the fabric, and design is the living face.
+Bem-vindo ao meu ateliê. Sou um Desenvolvedor Front-End do Brasil, dedicado a tecer interfaces que transcendem meros templates, servindo como verdadeiros reflexos da essência única de uma marca. O meu ofício é regido pela transparência radical (Aletheia) e por uma excelência técnica intransigente (Arete). Aqui, o código é o tecido e o design é a face viva.
 
-## 🪡 Arete: The Craft & The Stack
+🪡 Arete: O Ofício & A Stack
 
-My technological repertoire is meticulously curated for performance, scalability, and strict type safety. I specialize in modern SPAs, Hybrid Styling, and robust architectural patterns, ensuring the digital garment offers a flawless fit without ever restricting movement.
+O meu repertório tecnológico é meticulosamente curado para performance, escalabilidade e rigorosa segurança de tipagem. Sou especialista em SPAs modernas, Estilização Híbrida e padrões arquitetônicos robustos, garantindo que a vestimenta digital tenha um caimento impecável sem jamais restringir o movimento.
 
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-0A0E14?style=for-the-badge&logo=typescript&logoColor=C5A059" alt="TypeScript" />
@@ -27,15 +27,15 @@ My technological repertoire is meticulously curated for performance, scalability
 <img src="https://img.shields.io/badge/React_Hook_Form_+_Zod-0A0E14?style=for-the-badge&logo=reacthookform&logoColor=C5A059" alt="React Hook Form & Zod" />
 </p>
 
-## 🎼 The Repertoire: Orchestrating Complexity
+🎼 O Repertório: Orquestrando a Complexidade
 
-* **Enterprise-Grade SPAs:** Implementing strict Type-Safety, Role-Based Access Control (RBAC), and perfectly tuned form validation schemas.
-* **API Integration & Security:** Seamless JWT authentication, Service Layer abstractions, and the harmonious orchestration of RESTful ecosystems.
-* **Premium UI/UX (Prosopon):** Developing bespoke Design Systems utilizing Mobile-First responsive grids and flawlessly optimized Web Vitals.
+* **SPAs de Nível Enterprise:** Implementação de rigorosa Segurança de Tipagem (*Type-Safety*), Controle de Acesso Baseado em Cargos (RBAC) e esquemas de validação de formulários perfeitamente afinados.
+* **Integração de APIs & Segurança:** Autenticação JWT fluida, abstrações de Camada de Serviço e a orquestração harmoniosa de ecossistemas RESTful.
+* **UI/UX Premium (Prosopon):** Desenvolvimento de Design Systems sob medida, utilizando grids responsivos *Mobile-First* e *Web Vitals* impecavelmente otimizados.
 
-## 🏛️ Let's Compose Something Unique
+🏛️ Vamos Compor Algo Único
 
-Whether you require a profound technical diagnosis (Theoria) or a fully tailored digital experience, I invite you to initiate a conversation. We partner with leaders and visionaries who demand the extraordinary.
+Quer necessite de um diagnóstico técnico profundo (Theoria) ou de uma experiência digital inteiramente feita sob medida, convido-o a iniciar uma conversa. Somos parceiros de líderes e visionários que exigem o extraordinário.
 
 <p align="left">
 <a href="mailto:edgar17.neto@gmail.com">
