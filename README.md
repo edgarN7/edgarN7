@@ -7,11 +7,11 @@
 
 <hr>
 
-⚜️ The Ethos: Digital Soul Tailoring
+## ⚜️ The Ethos: Digital Soul Tailoring
 
 Welcome to my atelier. I am a Front-End Developer from Brazil, dedicated to weaving interfaces that transcend mere templates, serving as true reflections of a brand's unique essence. My craft is governed by radical transparency (Aletheia) and uncompromising technical excellence (Arete). Here, code is the fabric, and design is the living face.
 
-🪡 Arete: The Craft & The Stack
+## 🪡 Arete: The Craft & The Stack
 
 My technological repertoire is meticulously curated for performance, scalability, and strict type safety. I specialize in modern SPAs, Hybrid Styling, and robust architectural patterns, ensuring the digital garment offers a flawless fit without ever restricting movement.
 
@@ -27,13 +27,13 @@ My technological repertoire is meticulously curated for performance, scalability
 <img src="https://img.shields.io/badge/React_Hook_Form_+_Zod-0A0E14?style=for-the-badge&logo=reacthookform&logoColor=C5A059" alt="React Hook Form & Zod" />
 </p>
 
-🎼 The Repertoire: Orchestrating Complexity
+## 🎼 The Repertoire: Orchestrating Complexity
 
 * **Enterprise-Grade SPAs:** Implementing strict Type-Safety, Role-Based Access Control (RBAC), and perfectly tuned form validation schemas.
 * **API Integration & Security:** Seamless JWT authentication, Service Layer abstractions, and the harmonious orchestration of RESTful ecosystems.
 * **Premium UI/UX (Prosopon):** Developing bespoke Design Systems utilizing Mobile-First responsive grids and flawlessly optimized Web Vitals.
 
-🏛️ Let's Compose Something Unique
+## 🏛️ Let's Compose Something Unique
 
 Whether you require a profound technical diagnosis (Theoria) or a fully tailored digital experience, I invite you to initiate a conversation. We partner with leaders and visionaries who demand the extraordinary.
 
