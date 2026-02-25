@@ -7,11 +7,11 @@
 
 <hr>
 
-⚜️ The Ethos: Alfaiataria de Almas Digitais
+## ⚜️ The Ethos: Alfaiataria de Almas Digitais
 
 Bem-vindo ao meu ateliê. Sou um Desenvolvedor Front-End do Brasil, dedicado a tecer interfaces que transcendem meros templates, servindo como verdadeiros reflexos da essência única de uma marca. O meu ofício é regido pela transparência radical (Aletheia) e por uma excelência técnica intransigente (Arete). Aqui, o código é o tecido e o design é a face viva.
 
-🪡 Arete: O Ofício & A Stack
+## 🪡 Arete: O Ofício & A Stack
 
 O meu repertório tecnológico é meticulosamente curado para performance, escalabilidade e rigorosa segurança de tipagem. Sou especialista em SPAs modernas, Estilização Híbrida e padrões arquitetônicos robustos, garantindo que a vestimenta digital tenha um caimento impecável sem jamais restringir o movimento.
 
@@ -27,13 +27,13 @@ O meu repertório tecnológico é meticulosamente curado para performance, escal
 <img src="https://img.shields.io/badge/React_Hook_Form_+_Zod-0A0E14?style=for-the-badge&logo=reacthookform&logoColor=C5A059" alt="React Hook Form & Zod" />
 </p>
 
-🎼 O Repertório: Orquestrando a Complexidade
+## 🎼 O Repertório: Orquestrando a Complexidade
 
 * **SPAs de Nível Enterprise:** Implementação de rigorosa Segurança de Tipagem (*Type-Safety*), Controle de Acesso Baseado em Cargos (RBAC) e esquemas de validação de formulários perfeitamente afinados.
 * **Integração de APIs & Segurança:** Autenticação JWT fluida, abstrações de Camada de Serviço e a orquestração harmoniosa de ecossistemas RESTful.
 * **UI/UX Premium (Prosopon):** Desenvolvimento de Design Systems sob medida, utilizando grids responsivos *Mobile-First* e *Web Vitals* impecavelmente otimizados.
 
-🏛️ Vamos Compor Algo Único
+## 🏛️ Vamos Compor Algo Único
 
 Quer necessite de um diagnóstico técnico profundo (Theoria) ou de uma experiência digital inteiramente feita sob medida, convido-o a iniciar uma conversa. Somos parceiros de líderes e visionários que exigem o extraordinário.
 
