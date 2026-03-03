@@ -38,7 +38,7 @@ O meu repertório tecnológico é meticulosamente curado para performance, escal
 Quer necessite de um diagnóstico técnico profundo (Theoria) ou de uma experiência digital inteiramente feita sob medida, convido-o a iniciar uma conversa. Somos parceiros de líderes e visionários que exigem o extraordinário.
 
 <p align="left">
-<a href="mailto:edgar17.neto@gmail.com">
+<a href="mailto:edgar@fromtheos.com.br">
 <img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=FDFBF7" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/dev-edgar-neto">
